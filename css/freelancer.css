@@ -69,8 +69,8 @@ hr.star-primary:after {
 }
 header {
   text-align: center;
-  background: #18BC9C;
-  color: white;
+  background: white;
+  color: black;
 }
 header .container, #portfolio .container {
   padding-top: 60px;
