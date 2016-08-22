@@ -191,6 +191,7 @@ section.success {
   color: black;
 }
 section img {
+	max-width: 90%;
 	width: 400px;
 	margin-top: 20px;
 }
