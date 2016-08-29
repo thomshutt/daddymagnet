@@ -73,7 +73,7 @@ header {
   color: black;
 }
 header .container, #portfolio .container {
-  padding-top: 60px;
+  padding-top: 20px;
   padding-bottom: 30px;
 }
 header img {
